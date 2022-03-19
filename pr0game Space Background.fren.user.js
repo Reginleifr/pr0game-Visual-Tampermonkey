@@ -5,9 +5,9 @@
 // @description  Adds a nice Fren background image to the game.
 // @author       Reginleifr
 // @match        https://pr0game.com/*
-// @updateURL    
-// @downloadURL  
-// @supportURL   
+// @updateURL    https://github.com/Reginleifr/pr0game-Visual-Tampermonkey/raw/main/pr0game%20Space%20Background.fren.user.js
+// @downloadURL  https://github.com/Reginleifr/pr0game-Visual-Tampermonkey/raw/main/pr0game%20Space%20Background.fren.user.js
+// @supportURL   https://github.com/Reginleifr
 // @icon         https://pr0game.com/favicon.ico
 // @grant        GM_addStyle
 // ==/UserScript==
